@@ -1,0 +1,6 @@
+r=int(input("r="))
+n=int(input("n="))
+a=int(input("a="))
+b=int(input("b="))
+natija=(1+r/100)**n/((a**2+b**2)**0.5)
+print(natija)
